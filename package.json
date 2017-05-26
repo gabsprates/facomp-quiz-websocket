@@ -1,0 +1,31 @@
+{
+  "name": "facomp-quiz-websocket",
+  "version": "1.0.0",
+  "description": "servidor websocket para aplicação de quiz",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsprates/facomp-quiz-websocket.git"
+  },
+  "keywords": [
+    "websocket",
+    "nodejs",
+    "javascript",
+    "arduino"
+  ],
+  "author": "Gabriel Prates <gabsprates@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabsprates/facomp-quiz-websocket/issues"
+  },
+  "homepage": "https://github.com/gabsprates/facomp-quiz-websocket#readme"
+}
